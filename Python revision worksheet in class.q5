@@ -1,0 +1,19 @@
+colour = input('enter a colour:')
+colour = str(colour)
+if colour == 'red':
+    fruit = input('enter if a fruit (yes/no):')
+    if fruit == 'yes':
+        print ('tomato or apple')
+    if fruit == 'no':
+        print('it is a rose')
+        
+if colour == 'yellow':
+    fruit = input('enter if a fruit (yes/no):')
+    if fruit == 'yes':
+        print ('banana')
+    if fruit == 'no':
+        print('corn or marigold')
+  
+  
+else:
+    print('I cannot assist')
