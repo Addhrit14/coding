@@ -1,0 +1,7 @@
+feburary = input('enter the days in feburary:')
+feburary = int(feburary)
+if feburary == 29:
+    print('29 is a leap year')
+    
+else:
+    print('this day is not a leap year')
