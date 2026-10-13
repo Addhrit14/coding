@@ -1,0 +1,3 @@
+Your code is very good. A quick note:
+
+Algorithms and flowcharts additional exercise3 - you are finding the total. You need to calculate the average.

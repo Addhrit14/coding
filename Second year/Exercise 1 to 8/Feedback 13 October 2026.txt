@@ -1,0 +1,7 @@
+Exercise 4 is missing
+
+Exercise 5 you don't need to put brackets around the values you are assigning
+
+Exercise 6 Q2 - there are no string values. number1 and number2 are also variables and values
+
+Exercise 8 is not as requested but it is clear you know how to write the code
